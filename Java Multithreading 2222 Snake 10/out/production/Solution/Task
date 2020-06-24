@@ -1,0 +1,16 @@
+
+Snake 10
+
+Create a statistic in the Room class for a game of type Room.
+Access to the variable should beat from all classes.
+
+Then in the main method:
+a) create a snake - an object like Snake.
+b) create a room - an object of type Room and transfer width, height and a snake into it.
+c) Set the snake direction equal to SnakeDirection - DOWN
+
+We need a method that biotorized everything on the screen:
+a) create a void run () method
+b) create a void print () method
+
+// Book entity = bookRepository.findById (id) .orElse (new Book ());
